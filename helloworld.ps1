@@ -1,0 +1,1 @@
+writewrite-host "Hello, world!"
